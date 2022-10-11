@@ -1,0 +1,14 @@
+{
+  "name": "node-version-monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "nodegit": "^0.27.0",
+    "npm": "^8.19.2",
+    "package-json": "^8.1.0",
+    "semver": "^7.3.8",
+    "semver-diff": "^4.0.0"
+  }
+}

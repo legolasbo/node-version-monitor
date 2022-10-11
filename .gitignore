@@ -1,0 +1,6 @@
+/node_modules/
+/.idea/
+/repositories
+*.iml
+config.json
+knownVersions.json

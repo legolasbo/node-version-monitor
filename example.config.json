@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "exampleName": {
+      "repo": "user@example.com:repo",
+      "branch": "main"
+    }
+  },
+  "checkInterval": {
+    "days": 1,
+    "hours": 3,
+    "minutes": 10
+  },
+  "webhook": "https://example.com/slack/web/hook"
+}
